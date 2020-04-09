@@ -1,3 +1,3 @@
-# API Compasses: Overview
+# API Navigator: Overview
 
-* [CAM Product Compass](product)
+* [API Product Navigator](product)

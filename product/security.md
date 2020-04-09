@@ -1,4 +1,4 @@
-# [CAM](../) [Product Compass](./): Security
+# API [Product](./) [Navigator](../): Security
 
 With APIs having the goal of opening up capabilities for access and interaction, it is clear that securing them is important, as APIs by definition create a new attack surface. However, the good news is that with connectivity always being managed through APIs (and not through one-off integration projects that are harder to secure and track consistently), security can focus on APIs as the uniform method of interaction. At the API level, security means to protect your capabilities from unauthorized access, to make sure that they stay available for authorized access, and to make sure that capabilities are designed and implemented in ways that fit well into your security model.
 

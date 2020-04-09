@@ -1,6 +1,6 @@
-# [CAM](../) [Product Compass](./): Development
+# API [Product](./) [Navigator](../): Development
 
-Most organizations have fine-tuned and added sufficient control and automation to their DevOps pipelines in order to be more agile, reduce defects, and shorten release times. In this topic of the API Product Compass we consider how to bring your API product pipeline and workflow into the mix and assess any current gaps. APIs are better when developers gain understanding the full API landscape and the value that consumers will gain from their development efforts.
+Most organizations have fine-tuned and added sufficient control and automation to their DevOps pipelines in order to be more agile, reduce defects, and shorten release times. In this topic of the API Product Navigator we consider how to bring your API product pipeline and workflow into the mix and assess any current gaps. APIs are better when developers gain understanding the full API landscape and the value that consumers will gain from their development efforts.
 
 * How are the design and development efforts coordinated when changes are made to the API definition?
 

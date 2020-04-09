@@ -1,6 +1,6 @@
-# [CAM](../) [Product Compass](./): Discovery
+# API [Product](./) [Navigator](../): Discovery
 
-One of the benefits of an API first approach is being able to deliver digital products more efficiently and quickly because the capabilities packaged through well-designed API products can be reused. You can't reuse something no one can find, though! Discovery should not be accidental for consumers, both business and technical. This topic of the API Product Compass addresses the ease to which your APIs can be searched for, identified, and discovered as an essential part of the planning phase of the lifecycle. 
+One of the benefits of an API first approach is being able to deliver digital products more efficiently and quickly because the capabilities packaged through well-designed API products can be reused. You can't reuse something no one can find, though! Discovery should not be accidental for consumers, both business and technical. This topic of the API Product Navigator addresses the ease to which your APIs can be searched for, identified, and discovered as an essential part of the planning phase of the lifecycle. 
 
 * How do consumers discover available APIs? Is there one place or are there multiples places where discovery can start?
 

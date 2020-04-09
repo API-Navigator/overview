@@ -1,4 +1,4 @@
-# [CAM](../) [Product Compass](./): Documentation
+# API [Product](./) [Navigator](../): Documentation
 
 APIs are the communication channels of digital value chains, and in an ideal world, channels could be built by knowing about all available APIs, picking the right ones to design a new value chain, and then implementing it. In the real world, things are a little more complicated and APIs are not completely self-describing or self-documenting beyond a rather technical level. Documentation helps to understand an API both in terms of the value it provides (non-technical documentation) as well as in terms of how to use it (technical documentation). Investment in documentation depends heavily on the lifecycle stage of an API as well as on the intended audience. The documentation pillar makes sure that documentation is at the right level for an individual API product's maturity and goals.
 

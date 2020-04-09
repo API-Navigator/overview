@@ -1,6 +1,6 @@
-# [CAM](../) [Product Compass](./): Deployment
+# API [Product](./) [Navigator](../): Deployment
 
-Deployment is more than just the act of "putting something live". It's about being ready and anticipating and dealing with change. In this topic of the API Product Compass we consider deployment from everything that needs to be deployed throughout the API product lifecycle to see how joined up your current workflows or pipelines are. Organizations need to ensure adequate control while not sacrificing speed and innovation in product releases.
+Deployment is more than just the act of "putting something live". It's about being ready and anticipating and dealing with change. In this topic of the API Product Navigator we consider deployment from everything that needs to be deployed throughout the API product lifecycle to see how joined up your current workflows or pipelines are. Organizations need to ensure adequate control while not sacrificing speed and innovation in product releases.
 
 * Is deployment automated or is it a manual process?
 

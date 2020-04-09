@@ -1,6 +1,6 @@
-# [CAM](../) [Product Compass](./): Design
+# API [Product](./) [Navigator](../): Design
 
-We've all heard about Design Thinking recently but is your organization considering API Design as a mandatory step to delivering quality APIs? In this topic of the API Product Compass, we will see how consumer-led design enables the right perspectives, granularity, and usability to delight those using APIs. We assess if there is enough balance of individual API scope with that of an entire landscape.
+We've all heard about Design Thinking recently but is your organization considering API Design as a mandatory step to delivering quality APIs? In this topic of the API Product Navigator, we will see how consumer-led design enables the right perspectives, granularity, and usability to delight those using APIs. We assess if there is enough balance of individual API scope with that of an entire landscape.
 
 * Have you identified (based on the API product strategy) who the API product is designed for, and included that perspective in the design process?
 
