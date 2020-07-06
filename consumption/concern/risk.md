@@ -1,4 +1,4 @@
-# [CAM](../../) [Consumption Compass](../): Risk
+# [CAM](../../) [Consumption Navigator](../): Risk
 
 Each consumed API constitutes a risk because it is a dependency that needs to be managed and this will cost resources over time. If the dependency is not managed, this simply means that the risk is unmanaged and that a failure in the dependency can cause cascading problems. Because of this inherent risk that each dependency causes, it is always important to ask whether it is worth taking the risk, and whether the risk is managed responsibly.
 

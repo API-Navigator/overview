@@ -1,4 +1,4 @@
-# [CAM](../../) [Consumption Compass](../): Representation
+# [CAM](../../) [Consumption Navigator](../): Representation
 
 The consumed API provides a service through some API style and exchanged representations to deliver that service. Coupling can be decreased when the consuming service does not directly depend on the model and the representation of the consumed API, but instead has its own model of the service that it is consuming, and then maps this model to the consumed API's specific representation. In this case, it becomes easier to adjust to changes in the consumed API, or to even replace it with a different one with a different specification, but with the same general model when seen from the perspective of the API consumer.
 

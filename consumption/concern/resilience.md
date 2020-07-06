@@ -1,4 +1,4 @@
-# [CAM](../../) [Consumption Compass](../): Resilience
+# [CAM](../../) [Consumption Navigator](../): Resilience
 
 A consumed API can behave in unexpected ways by showing degraded behavior, or by becoming unavailable. Consuming services should make sure to keep these behaviors in mind, and to mitigate them as much as possible through responsible coding techniques such as time-outs and fallback solutions. The main goal to keep in mind is that no behavior of the consumed API should make the consuming service behave in unplanned ways.
 

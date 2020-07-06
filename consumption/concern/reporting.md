@@ -1,4 +1,4 @@
-# [CAM](../../) [Consumption Compass](../): Reporting
+# [CAM](../../) [Consumption Navigator](../): Reporting
 
 In order to manage the dependency on an API it is important to understand how that external dependency is behaving. This can be useful for observation and for analytical purposes (to understand the history of past behavior patterns), but it also can be used to define normal behavior patterns, and to initiate warnings and mitigation actions when the API starts to behave outside of the bounds of acceptable behavior.
 
