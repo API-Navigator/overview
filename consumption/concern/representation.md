@@ -11,4 +11,3 @@ The consumed API provides a service through some API style and exchanged represe
 * Do you have runtime protection in place to inspect representations for malicious code injection?
   
 * Do you have tests that validate these runtime protections?
- 

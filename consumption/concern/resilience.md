@@ -8,8 +8,6 @@ A consumed API can behave in unexpected ways by showing degraded behavior, or by
   
 * Do you have timeouts in place to prevent waiting too long for an API response?
   
-* Do you send failfast timing budget values to APIs when you send a request to them?
+* Do you send fail-fast timing budget values to APIs when you send a request to them?
   
 * Do you use parallel requests where possible?
-
- 

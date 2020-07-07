@@ -4,6 +4,6 @@ When a consumed API shows problems, one possible strategy is to switch to an alt
 
 * Do you have at least one alternative provider for each consumed API (which might include changing API providers in the future)?
   
-* Have you considered identifying a runtime "failover" plan with a different provider for each consumed API?
+* Have you considered identifying a runtime fail-over plan with a different provider for each consumed API?
   
 * Do you have tests in place (to run before deployment) to validate your redundancy implementation?

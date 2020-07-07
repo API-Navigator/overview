@@ -14,5 +14,3 @@ In order to manage the dependency on an API it is important to understand how th
 * Do you have an automated process that notifies you when metrics are unusual?
   
 * Do you have an automated process that takes corrective actions when metrics are unusual?
-
-

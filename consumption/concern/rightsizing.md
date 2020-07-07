@@ -9,4 +9,3 @@ Platforms that run on APIs for API consumers necessarily exhibit stability probl
 * Do you have a dashboard that records the typical transaction time (in length) as well as reach (# of components touching the transaction)?
   
 * Do you have a process for evaluating the effectiveness of interactions with consumed APIs?
-

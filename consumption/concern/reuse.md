@@ -6,6 +6,6 @@ API reuse represents a possible cost reduction (the ability to re-use existing i
   
 * Is it possible for you to use the same API to solve more than one problem?
   
-* Do you set reuse KPIs and monitor the "reuse stats" of the APIs you are consuming?
+* Do you set reuse KPIs and monitor the reuse stats of the APIs you are consuming?
   
 * Is there a feedback channel for API consumers that when using APIs the API provider can learn about what's working well and what's maybe not working so well?
